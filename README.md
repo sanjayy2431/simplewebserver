@@ -88,8 +88,7 @@ httpd.serve_forever()
 
 
 
-## OUTPUT:
-## TERMINAL: 
+## OUTPUT: 
 
 ## WEB SERVER:
 ![Screenshot 2024-09-26 103044](https://github.com/user-attachments/assets/2c0952db-95b0-4b72-be3e-d259ababdbc4)
